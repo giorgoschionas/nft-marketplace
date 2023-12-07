@@ -1,2 +1,2 @@
 # nft-marketplace
-following marigold tutorials
+building a nft marketplace
