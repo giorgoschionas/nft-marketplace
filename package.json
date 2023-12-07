@@ -12,6 +12,7 @@
   "devDependencies": {
     "@taqueria/plugin-contract-types": "^0.45.0",
     "@taqueria/plugin-ligo": "^0.45.0",
-    "@taqueria/plugin-taquito": "^0.45.0"
+    "@taqueria/plugin-taquito": "^0.45.0",
+    "@taqueria/plugin-tezos-client": "^0.39.0"
   }
 }
